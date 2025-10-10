@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ankit mishra
-- 👀 I’m interested in ...Mern stack developer
+- 👀 I’m interested in ...Java full stack developer 
 - 🌱 I’m currently learning ...backend 
 - 💞️ I’m looking to collaborate on ...trancription website
 - 📫 How to reach me ...
