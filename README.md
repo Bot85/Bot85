@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ankit mishra
 - 👀 I’m interested in ...Java full stack developer 
 - 🌱 I’m currently learning ...backend 
-- 💞️ I’m looking to collaborate on ...trancription website
+- 💞️ I’m looking to collaborate on ...java projects
 - 📫 How to reach me ...
 
 <!---
